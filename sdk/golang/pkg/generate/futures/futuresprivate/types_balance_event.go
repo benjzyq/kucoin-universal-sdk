@@ -3,7 +3,7 @@
 package futuresprivate
 
 import (
-	"encoding/json"
+	json "github.com/goccy/go-json"
 	"github.com/Kucoin/kucoin-universal-sdk/sdk/golang/pkg/types"
 )
 

@@ -2,7 +2,7 @@ package infra
 
 import (
 	"context"
-	"encoding/json"
+	json "github.com/goccy/go-json"
 	"fmt"
 	"github.com/Kucoin/kucoin-universal-sdk/sdk/golang/internal/interfaces"
 	"github.com/Kucoin/kucoin-universal-sdk/sdk/golang/pkg/common/logger"

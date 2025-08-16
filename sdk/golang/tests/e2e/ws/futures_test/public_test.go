@@ -1,7 +1,7 @@
 package spot_test
 
 import (
-	"encoding/json"
+	json "github.com/goccy/go-json"
 	"fmt"
 	"github.com/Kucoin/kucoin-universal-sdk/sdk/golang/pkg/api"
 	"github.com/Kucoin/kucoin-universal-sdk/sdk/golang/pkg/common/logger"

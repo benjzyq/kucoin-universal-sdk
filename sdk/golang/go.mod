@@ -3,6 +3,7 @@ module github.com/Kucoin/kucoin-universal-sdk/sdk/golang
 go 1.22.2
 
 require (
+	github.com/goccy/go-json v0.10.5
 	github.com/google/go-querystring v1.1.0
 	github.com/google/uuid v1.6.0
 	github.com/gorilla/websocket v1.5.3

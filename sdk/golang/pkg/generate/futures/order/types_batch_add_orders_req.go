@@ -2,7 +2,7 @@
 
 package order
 
-import "encoding/json"
+import json "github.com/goccy/go-json"
 
 // BatchAddOrdersReq struct for BatchAddOrdersReq
 type BatchAddOrdersReq struct {

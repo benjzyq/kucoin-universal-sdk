@@ -2,7 +2,7 @@ package futures_test
 
 import (
 	"context"
-	"encoding/json"
+	json "github.com/goccy/go-json"
 	"fmt"
 	"os"
 	"testing"

@@ -2,7 +2,7 @@ package margin
 
 import (
 	"context"
-	"encoding/json"
+	json "github.com/goccy/go-json"
 	"fmt"
 	"github.com/Kucoin/kucoin-universal-sdk/sdk/golang/extension/interceptor"
 	"github.com/Kucoin/kucoin-universal-sdk/sdk/golang/pkg/api"
